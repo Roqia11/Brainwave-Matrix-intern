@@ -1,7 +1,8 @@
 # Supermarket Sales -Analysis
 Supermarket Sales Analysis Dashboard Project 
 ## Project Description
-Cleaned and preprocessed COVID-19 datasets to ensure data quality and consistency, utilizing DAX (Data Analysis Expressions) to create calculated columns and measures for advanced analysis of infection rates, mortality trends, and recovery patterns. Designed dynamic dashboards in Power BI to visualize key insights, including confirmed cases by region, month-over-month recovery trends, and fatality rates. Conducted in-depth analysis to identify key factors influencing virus spread, healthcare system impact, and regional recovery rates, providing valuable insights for data-driven decision-making.
+Cleaned and preprocessed supermarket sales data to ensure accuracy and reliability, leveraging Python libraries such as Pandas and Seaborn for exploratory data analysis. Utilized DAX (Data Analysis Expressions) within Power BI to create dynamic calculated columns and measures for in-depth insights into sales performance, customer behavior, and tax contributions. Designed interactive dashboards to visualize key metrics, including total sales by city, product line profitability, average customer ratings, and preferred payment methods. Conducted analytical breakdowns to uncover trends in branch performance, gender-based purchasing patterns, and category-wise revenue, supporting data-driven business decisions.
+
 ## Tools
 ![download](https://github.com/user-attachments/assets/82fe2e1c-ca76-4267-9819-1449de1c9e64)![download (1)](https://github.com/user-attachments/assets/9295a98b-4db9-4334-841c-01003dbe84d5)![Image](https://github.com/user-attachments/assets/71bead8b-c5a1-4270-818b-4479a86ef9ca)
 
