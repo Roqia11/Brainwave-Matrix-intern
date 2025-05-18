@@ -8,4 +8,5 @@ Cleaned and preprocessed supermarket sales data to ensure accuracy and reliabili
 
 ## Power Bi Dashboards
 
-![Image](https://github.com/user-attachments/assets/5376e8ab-7d21-48ae-8bbc-5656fd87991d)
+![Image](https://github.com/user-attachments/assets/5376e8ab-7d21-48ae-8bbc-5656fd87991d) 
+![Image](https://github.com/user-attachments/assets/78f5f84c-5975-4555-8ac0-8a98d42a8d75)
