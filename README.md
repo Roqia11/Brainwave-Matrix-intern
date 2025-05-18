@@ -8,4 +8,4 @@ I worked on cleaning and organizing two types of data: supermarket sales and Twi
 ## Power Bi Dashboards
 
 ![Image](https://github.com/user-attachments/assets/5376e8ab-7d21-48ae-8bbc-5656fd87991d) 
-![Image](https://github.com/user-attachments/assets/78f5f84c-5975-4555-8ac0-8a98d42a8d75)
+![Image](https://github.com/user-attachments/assets/63d30f6e-e437-408e-831b-eb4ef6d92715)
